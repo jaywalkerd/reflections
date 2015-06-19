@@ -13,3 +13,7 @@ You make sure you include all the changed files in the commit that involves your
 -What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 It would be helpful when you want to implement new features and want to give yourself a setpoint here you can easily revert to.  It also helps keep your repository organized.
+
+-How do the diagrams help you visualize the branch structure?
+
+You get a clear visualization of your branches, the commits within those branches, and if there are any unreachable commits.
