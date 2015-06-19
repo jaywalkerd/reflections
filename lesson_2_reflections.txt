@@ -5,3 +5,11 @@ It allows git to install the necessary files in a hidden directory (.git/) to ma
 -How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is different in that it gives you a clear indication of which file(s) you want to commit.
+
+-How can you use the staging area to make sure you have one commit per logical change?
+
+You make sure you include all the changed files in the commit that involves your one logical change.
+
+-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+It would be helpful when you want to implement new features and want to give yourself a setpoint here you can easily revert to.  It also helps keep your repository organized.
