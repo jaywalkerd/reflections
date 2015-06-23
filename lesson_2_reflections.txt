@@ -17,3 +17,14 @@ It would be helpful when you want to implement new features and want to give you
 -How do the diagrams help you visualize the branch structure?
 
 You get a clear visualization of your branches, the commits within those branches, and if there are any unreachable commits.
+
+-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches combines the commits from both branches.  The order in which the commits appear is chronological.  The way it is represented in the diagram indicates each distinct branch and which commits belong to each branch.  Where as a merged branch gives no indication of which commits were originally from.
+
+-What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: Git will let you know if there are any conflicts that would prevent merging.
+	  Git will automatically make a commit for you indicating a merge has taken place
+	  
+Cons: 
