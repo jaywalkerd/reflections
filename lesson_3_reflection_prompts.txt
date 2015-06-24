@@ -1,0 +1,3 @@
+-When would you want to use a remote repository rather than keeping all your work local?
+
+If you have more than one contributor for the project or if you use multiple computers where it would be difficult to keep the project in sync without version control.
