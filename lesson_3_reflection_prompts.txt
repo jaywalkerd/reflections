@@ -13,3 +13,7 @@ Forks are projects copied from some one else's Git.  Forks are typically used wh
 Clones are copies of projects that are made to your local machine.  A clone differs from a fork where it is saved locally, whereas a fork is saved online on your Git.
 
 Branches are paths of a project.  They may be experimental, where new features are first tested, or they may be a master branch, which is typically a stable version.
+
+-What is the benefit of having a copy of the last known state of the remote stored locally?
+
+So you would know the point in which you last pulled a commit and know at which point you started modifying code.
